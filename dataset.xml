@@ -1,5 +1,2 @@
-<root>
-    <item id="1" name="one" />
-    <item id="2" name="two" />
-    <item id="3" name="three" />
-</root>
+<?xml version='1.0' encoding='utf-8'?>
+<root><item id="1" name="one" value="1900" /><item id="3" name="2315" value="5000" /><item id="2" name="two" value="2500" /></root>
